@@ -1,0 +1,4 @@
+0:10:38.239859 hh:mm:ss:SSSSS
+0:10:34.342023 hh:mm:ss:SSSSS
+0:10:36.567827 hh:mm:ss:SSSSS
+0:10:32.902579 hh:mm:ss:SSSSS
